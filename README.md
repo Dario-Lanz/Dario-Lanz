@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, ich bin Dario 👋
 
-<!--
-**Dario-Lanz/Dario-Lanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇩🇪 Ich beschäftige mich mit **KI-gestützter Softwareentwicklung (Vibe-Coding), Workflow-Automatisierung und Python**. Geprägt vom deutschen Mittelstand, erkunde ich, wie KI genau diesen Unternehmen helfen kann, mit besonderem Fokus auf **erneuerbare Energien**.
 
-Here are some ideas to get you started:
+🇬🇧 I'm working with **AI-assisted software development (vibe coding), workflow automation and Python**. Shaped by Germany's *Mittelstand* (small and mid-sized businesses), I'm exploring how AI can help exactly these companies, with a special focus on **renewable energy**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Woran ich arbeite / What I'm working on
+- 📚 **[Promptregal](https://promptregal.app)**: Prompt-Bibliothek als Web-App / prompt library web app
+- ⚖️ **website-legal-check-de**: KURZBESCHREIBUNG DE / SHORT DESCRIPTION EN
+- ✨ … und noch weitere spannende Projekte / … and more exciting projects
+
+### 🧰 Tools
+Claude Code · Python · Excel · Power Automate · Copilot Studio
+
+### 📫 Kontakt / Reach me
+[LinkedIn](https://www.linkedin.com/in/dario-lanz-30731a154/) · 📍 Berlin
